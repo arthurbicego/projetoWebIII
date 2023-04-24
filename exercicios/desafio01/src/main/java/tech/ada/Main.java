@@ -19,8 +19,10 @@ Implementação guiada por testes unitários, se possível
  */
 
 
-package desafio01;
+package tech.ada;
 
+import desafio01.Animal;
+import desafio01.Filter;
 import java.util.ArrayList;
 import java.util.List;
 

@@ -23,7 +23,7 @@ Publicar no github o projeto
 Implemente o mais simples e enxuto possível
  */
 
-package desafio02;
+package tech.ada;
 
 public class Main {
     public static void main(String[] args) {

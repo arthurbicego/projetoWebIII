@@ -6,21 +6,21 @@ import java.util.stream.Collectors;
 
 public class Filter {
 
-    public Animal filtrarMaiorAnimalNaoCarnivoro(List<Animal> animals){
+    public desafio01.Animal filtrarMaiorAnimalNaoCarnivoro(List<desafio01.Animal> animals){
         return animals.stream()
                 .filter(a -> !a.getAlimentacao().equals("Carnívoro"))
-                .max(Comparator.comparing(Animal::getTamanho))
+                .max(Comparator.comparing(desafio01.Animal::getTamanho))
                 .orElse(null);
     }
 
-    public List<Animal> filtrarCarnivorosPesamMaisQueX(List<Animal> animais, Integer peso){
+    public List<desafio01.Animal> filtrarCarnivorosPesamMaisQueX(List<desafio01.Animal> animais, Integer peso){
         return animais.stream()
                 .filter(a -> a.getAlimentacao().equals("Carnívoro")
                         && a.getPeso() > peso
                 ).collect(Collectors.toList());
     }
 
-    public List<Animal> filtrarNaoHerbivorosMenoresQueY(List<Animal> animals, Double tamanho){
+    public List<desafio01.Animal> filtrarNaoHerbivorosMenoresQueY(List<desafio01.Animal> animals, Double tamanho){
         return animals.stream()
                 .filter(a -> !a.getAlimentacao().equals("Herbívoro") && a.getTamanho() < tamanho)
                 .collect(Collectors.toList());
