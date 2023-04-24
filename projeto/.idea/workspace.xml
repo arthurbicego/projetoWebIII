@@ -1,13 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="b2764bd4-ca8e-43a8-a446-2b0ff8cc61ce" name="Changes" comment="" />
+    <list default="true" id="6436aa2c-4330-4fbc-8ab8-7d06ca12744f" name="Changes" comment="Projeto Web III - Mercado" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectId" id="2OssfT3yu6ClP4XzbVT1UrSuduc" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Osp1bycfiwDPALXn90L7IsNu1n" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -17,22 +31,87 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/arthu/OneDrive/Documentos/4. Workspace/Santander Coders/Web Full Stack/Modulo.07/arquivosCertos/projetoMercado",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "spring.configuration.checksum": "7c09bdfbe50bf0bb88fcd529c330b67b",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="projeto" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="projeto" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MercadoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="projeto" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="tech.ada.mercado.MercadoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b2764bd4-ca8e-43a8-a446-2b0ff8cc61ce" name="Changes" comment="" />
-      <created>1682360728387</created>
+      <changelist id="6436aa2c-4330-4fbc-8ab8-7d06ca12744f" name="Changes" comment="" />
+      <created>1682358932222</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1682360728387</updated>
-      <workItem from="1682360729367" duration="3000" />
+      <updated>1682358932222</updated>
+      <workItem from="1682358933269" duration="53000" />
+      <workItem from="1682359328753" duration="59000" />
+      <workItem from="1682359671078" duration="147000" />
+      <workItem from="1682359858153" duration="28000" />
+      <workItem from="1682361551816" duration="125000" />
+      <workItem from="1682361712352" duration="54000" />
+      <workItem from="1682361775311" duration="146000" />
     </task>
+    <task id="LOCAL-00001" summary="Projeto Web III - Mercado">
+      <created>1682359773279</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1682359773279</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Projeto Web III - Mercado">
+      <created>1682361845843</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1682361845843</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Projeto Web III - Mercado" />
+    <option name="LAST_COMMIT_MESSAGE" value="Projeto Web III - Mercado" />
   </component>
 </project>
