@@ -7,6 +7,7 @@ requisições. Simulando 500, 1000 e 2000 usuários virtuais, respectivamente. N
 perceber que ocorreu um uso de memória e de Threads elevado.
 <br>
 <br>
+<br>
 
 ![webflux](webflux.jpg)
 <br>
