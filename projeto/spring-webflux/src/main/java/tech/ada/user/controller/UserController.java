@@ -1,7 +1,6 @@
 package tech.ada.user.controller;
 
 import org.springframework.http.MediaType;
-import tech.ada.pagamento.model.Comprovante;
 import tech.ada.user.model.User;
 import tech.ada.user.service.UserService;
 import lombok.extern.slf4j.Slf4j;
